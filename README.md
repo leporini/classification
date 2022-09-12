@@ -1,2 +1,2 @@
 # classification
-Mathematica notebook for binary classification with quantum state discrimination
+Mathematica notebook for classification with quantum state discrimination
